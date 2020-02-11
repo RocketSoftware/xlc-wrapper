@@ -1,0 +1,7 @@
+*~
+*.old
+*.o
+*.list
+*.fail
+*.log
+*.out
